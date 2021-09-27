@@ -1,2 +1,16 @@
-# Kickstarter-Analysis
-This is my first Repo to upload my work on a Crowdfunding on Excel, where you can find charts, filters, pivot tables, formulas, etc. Used to organize and understand what the data on the spreadsheets mean.
+# Crowdfunding Analyis using Excel
+
+## Overview of Project
+
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
