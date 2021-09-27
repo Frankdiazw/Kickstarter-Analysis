@@ -9,7 +9,7 @@ This document focuses on the use of organization and data analysis to examine th
 
 ### Analysis of Outcomes Based on Launch Date
 The outcome of this analysis shows the following:
-
+![](https://github.com/Frankdiazw/Kickstarter-Analysis/blob/main/Images/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
