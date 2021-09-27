@@ -23,10 +23,28 @@ In the month of October, the counts slightly increased and then decreased again 
 Starting with 33 failed outcomes in the month of January you can see a small variation in counts through the month of April.
 Again in the month of May it reached the highest peak with a count of 52 failed results and from that month the graph stabilizes a bit until the month of August. In the month of September, a decrease in the graph can be observed to reach a count of 34 failed results. Another gently increase is observed in the month of October and the greatest decrease of the entire graph in the month of November, dropping to 31 failed outcomes and for the month of December the count ends with 35 failed results.
 - **Canceled Outcomes (Yellow line)**
-  - On this outcomes we can se the lowest counts of the three results. We start with the peak of cancelations in the month of January with a count of 7, from then through the month of september we can barely see a variation of counts. On the month of october we can see that the graph decreased to the lowest point with 0 counts and slightly increased in the month of november and december with 3 canceled outcomes.
+  - On this outcomes we can see the lowest counts of the three results. We start with the peak of cancelations in the month of January with a count of 7, from then through the month of september we can barely see a variation of counts. On the month of october we can see that the graph decreased to the lowest point with 0 counts and slightly increased in the month of november and december with 3 canceled outcomes.
 
 ### Analysis of Outcomes Based on Goals
+The outcome of this analysis shows the following:
+![](https://github.com/Frankdiazw/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
+*Figure 2. Outcomes Based on Goal*
+
+In the figure 2, we can visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. We can see that the graph shows on its "y" axis the percentage rate and in the "x" axes the dollar-amount ranges of projects based on their goal amount. The graph in figure 2 can be interpreted as follows:
+- **Percentage Successful (Blue line)**
+  - According to the Percentage Successful trend, It can be seen in the outcomes, that in the first range of dollar amounts that is less than $ 1000 it can be seen the peak of the graph with a 74.9% success percentage. The next range from $ 1000 to $ 4999 shows a small decrease going down to 72.66%, to drop more sharply in the range of $ 5000 to $ 9999. Subsequently, the graph decreases slightly until it reaches a 45% success rate in the range of $ 20,000 to $ 24,999 and drops sharply to 20% in the next range. In the range of $ 35,000 to $ 39,000 the graph shoots up to 66.7% and holds until it falls to 0% success rates in the range of $ 45,000 to $ 49,999. To subsequently increase to 12.5% in the last range of greater than $ 500,000.
+- **Percentage Failed (Orange line)**
+  - In the Percentage Failed line, we can observe a good start with a lower percentage rate than the Succesful rate with a 25% in the range of less than $ 1000. The Percentage Failed almost doubles up in the range of $ 5000 to $ 9999 and slightly increasing up to 55% in the range of $ 20000 to $ 24999. We can see a rise of the percentage to 80% in the $ 25000 to $ 29999. The line decreases significantly to 33%, to remain unchanged on the range of $ 40000 to $ 44999. The line unfortunately hits the peak of 100% on the range of $ 45000 to $ 49999, to decrease to 88% on the last range.
+- **Percentage Canceled (Gray line)**
+  - In the Percentage Canceled line, the line didn't vary in any range, the percentage remained in 0% in all the ranges.
+  
 ### Challenges and Difficulties Encountered
+During the Crowdfunding Analysis, no challenges were presented, however some users may experience syntax and semantic errors. Therefore, it is recommended to review the following links to avoid future errors:
+- :calendar: [YEAR function in Microsoft Excel](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9)
+- :information_source: [PivotTable](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
+- :hash: [COUNTIFS function in Microsoft Excel](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842)
+- :heavy_plus_sign: [SUM function in Microsoft Excel](https://support.microsoft.com/en-us/office/sum-function-043e1c7d-7726-4e80-8f32-07b23e057f89)
+- :information_source: [Syntax guide for GitHub](https://guides.github.com/features/mastering-markdown/)
 
 ## Results
