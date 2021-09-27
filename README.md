@@ -1,4 +1,4 @@
-# Crowdfunding Analyis using Excel
+# Crowdfunding Analyis using Excel :chart_with_upwards_trend:
 
 ## Overview of Project
 
