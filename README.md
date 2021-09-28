@@ -3,7 +3,7 @@
 ## Overview of Project :bar_chart:
 
 ### Purpose
-This document focuses on the use of organization and data analysis to examine the results of a data series throughout the main spreadsheet named "Kickstarter". Filters, pivot tables, formulas, line and bar graphs, analysis of variance, standard deviation, etc. were used to carry out the analysis of the proposed Crowdfunding dataset. See the next heading to visualize the Crowdfunding analyisis on detail.
+This document focuses on the use of organization and data analysis to examine the results of a data series throughout the main spreadsheet named "Kickstarter". Filters, pivot tables, formulas, line graphs, analysis of variance, standard deviation, etc. were used to carry out the analysis of the proposed Crowdfunding dataset. See the next heading to visualize the Crowdfunding analyisis on a detail.
 
 ## Analysis and Challenges :clipboard:
 
